@@ -4,7 +4,7 @@ import {RiAccountPinCircleFill} from 'react-icons/ri'
 
 const Navbar = () => {
   return (
-    <div className=" flex justify-end pt-6 pr-14">
+    <div className=" flex justify-end pt-6 pr-14 text-l text-white">
       <span  className="">Gmail</span>
       <span className="pl-8">Images</span>
       <span className="text-2xl pl-8"><TbGridDots/></span>
